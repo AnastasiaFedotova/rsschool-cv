@@ -14,8 +14,8 @@
 
 
 List of topics studied:
- - IDE, editors
- - HTML
+ - *IDE*, *editors*
+ - *HTML* 
  - I have little experience with *mysql* database
  
 *CSS*
