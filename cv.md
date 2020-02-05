@@ -16,9 +16,9 @@
 List of topics studied:
  - IDE, editors
  - HTML
- - I have little experience with mysql database
+ - I have little experience with *mysql* database
  
-##### CSS
+*CSS*
 
  - Float
  - object element modifier
@@ -31,7 +31,7 @@ List of topics studied:
  - Bootstrap
  - CSS Grid
  
-##### JavaScript
+*JavaScript*
 
  - functions
  - find the bug
