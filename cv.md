@@ -2,6 +2,7 @@
 
 ### Contact Information  
 - My phone number is **8029132-10-81**  
+
 - [x]  preferred communication method
 
 - email **anastaisafedotova@gmail.com**
@@ -46,9 +47,9 @@ List of topics studied:
 
 #### Work examples
 
-Example of work with HTML (https://github.com/AnastasiaFedotova/Berlin.de)
+[Example of work with HTML](https://github.com/AnastasiaFedotova/Berlin.de) 
   
-Objects for the site (https://github.com/AnastasiaFedotova/objectsForTheSite)
+[Objects for the site](https://github.com/AnastasiaFedotova/objectsForTheSite) 
 
 
 ### English level
