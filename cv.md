@@ -14,9 +14,11 @@
 
 
 List of topics studied:
+ - *OOP basics*, *basic data structures*
  - *IDE*, *editors*
  - *HTML* 
  - I have little experience with *mysql* database
+ 
  
 *CSS*
 
