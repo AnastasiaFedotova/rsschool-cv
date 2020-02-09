@@ -3,7 +3,9 @@
 ### Contact Information  
 - My phone number is **8029132-10-81**  
 
+
 - [x]  preferred communication method
+
 
 - email **anastaisafedotova@gmail.com**
 
