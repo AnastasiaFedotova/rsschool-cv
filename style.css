@@ -1,0 +1,86 @@
+.resume {
+  position: relative;
+  max-width: 1024px;
+  margin: 30px auto;
+  padding: 2%;
+  font-family: "Helvetica", "Arial", sans-serif;
+  color: #253a4e;
+  background-color: #f9f9fa;
+  border: 1px solid #f5eded;
+  border-radius: 20px;
+}
+
+.resume > section {
+  padding-left: 5%;
+}
+
+.resume__name,
+.resume__data {
+  color:#16070d;
+}
+
+.resume__link {
+  color: #017ce7;
+  text-decoration: none;
+}
+
+.resume__link:hover {
+  color: #00549e;
+}
+
+.resume__photo {
+  display: block;
+  float: left;
+  padding: 2% 5% 2% 5%;
+}
+
+.resume__contact {
+  display: block;
+  padding-top: 2%;
+  font-size: 16px;
+}
+
+.resume__list {
+  list-style-type: none;
+  line-height: 2em;
+}
+
+.resume__list_framed > li {
+  margin-bottom: 10px;
+  margin-right: 20%;
+  background-color: rgba(231, 195, 203, 0.2);
+  border-radius: 10px;
+}
+
+.resume__list_framed > li:before {
+  position: relative;
+  bottom: 2px;
+  right: 10px;
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  margin-right: 2%;
+  background-color: rgb(231, 195, 203);
+  border: 1px solid rgb(218, 119, 160);
+  border-radius: 50%;
+  content: "";
+}
+
+.resume__description {
+  display: block;
+  width: 50%;
+  margin: 2% 5% 4% 5%;
+  padding: 2% 4%;
+  background-color: #fdfbfb;
+  border: 1px solid #f5eded;
+  border-radius: 20px;
+}
+
+.resume__description > p {
+  line-height: 1.5em;
+  font-style: italic;
+}
+
+.clear {
+  clear: both;
+}
